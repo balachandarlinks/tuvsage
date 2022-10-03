@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "in.codeseed.tvusage.remote",
+    "sha256_cert_fingerprints":
+    ["A0:EA:80:A1:9C:D3:D0:64:38:BE:B8:64:20:DB:42:BA:58:A5:09:38:DB:06:42:EF:CA:A1:CA:46:0D:62:C0:8A"]
+  }
+}]
